@@ -6,7 +6,11 @@ I was developing web applications with Angular for the last couple years and wit
 
 Simple React project that covers components communication with props.
 
-### Step to run the app
+## Seasons Project
+
+Simple React project that covers components lifecycle methods. Seasons App is using browser geolocation to define the season (summer/winter) and implement some stylings to the page according to the selected season.
+
+### Step to run the any project
 
 1. `cd jsx`
 2. `npm install`
