@@ -25,3 +25,15 @@ Simple React project that covers handeling user input with Forms and Events and 
 3. `yarn start`
 4. `open browser with  http://localhost:3000/`
 5. Don't forget to create secret.js file in api folder and add your Unsplash API key in it.
+
+## Youtube Videos Project
+
+Simple React project that covers handeling user input with Forms and Events and making API Requests with React. Enter any word in the search filed and Youtube API will return 5 videos link to the entered keyword.
+
+## Step to run Youtube Videos project
+
+1. `cd videos`
+2. `npm install`
+3. `yarn start`
+4. `open browser with  http://localhost:3000/`
+5. Don't forget to create youtube.js file in api folder and add your Youtube API key in it.
