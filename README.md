@@ -1,6 +1,6 @@
 # Modern React with Redux
 
-I was developing web applications with Angular for the last couple years and with this repo I decided to refresh my knowledge with React and Redux.
+I was developing web applications with Angular for the last couple years and with this repo I decided to refresh my knowledge of React and Redux.
 
 ## Seasons Project
 
@@ -37,3 +37,14 @@ Simple React project that covers handeling user input with Forms and Events and 
 3. `yarn start`
 4. `open browser with  http://localhost:3000/`
 5. Don't forget to create youtube.js file in api folder and add your Youtube API key in it.
+
+## Songs Project
+
+Simple React and Redux project that using Redux to  display song title and duration on button click.
+
+## Step to run Songs project
+
+1. `cd songs`
+2. `npm install`
+3. `yarn start`
+4. `open browser with  http://localhost:3000/`
