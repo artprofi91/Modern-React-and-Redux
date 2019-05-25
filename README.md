@@ -41,6 +41,7 @@ Simple React project that covers handeling user input with Forms and Events and 
 ## Songs Project
 
 Simple React and Redux project that using Redux to  display song title and duration on button click.
+[Clik to see live demo](http://artprofi.react-redux-songs.surge.sh)
 
 ## Step to run Songs project
 
