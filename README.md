@@ -49,3 +49,15 @@ Simple React and Redux project that using Redux to  display song title and durat
 2. `npm install`
 3. `yarn start`
 4. `open browser with  http://localhost:3000/`
+
+## Blogs Project
+
+Simple React and Redux project that using Redux to display mock data from the `https://jsonplaceholder.typicode.com`.
+[Clik to see live demo](http://artprofi-react-redux-blogs.surge.sh)
+
+## Step to run Blogs project
+
+1. `cd blogs`
+2. `npm install`
+3. `yarn start`
+4. `open browser with  http://localhost:3000/`
