@@ -87,3 +87,15 @@ Simple React app with Context implementation to pass data between components.
 2. `npm install`
 3. `yarn start`
 4. `open browser with  http://localhost:3000/`
+
+## Hooks-simple Project
+
+Simple React app that using hooks (`useState` and `useEffect`) with combination of the date from the `https://jsonplaceholder.typicode.com` with `axios` package.
+[Clik to see live demo](http://artprofi-react-redux-hooks-simple.surge.sh)
+
+## Step to run Hooks-simple project
+
+1. `cd hooks-simple`
+2. `npm install`
+3. `yarn start`
+4. `open browser with  http://localhost:3000/`
