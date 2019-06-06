@@ -65,7 +65,6 @@ Simple React and Redux project that using Redux to display mock data from the `h
 ## Streams Project
 
 More complex React and Redux project that using Google Authentication. Also using Redux to manupulate data accross the components and `json-server` to handle CRUD operations
-[Clik to see live demo](http://artprofi-react-redux-blogs.surge.sh)
 
 ## Step to run Streams project
 
@@ -76,3 +75,15 @@ More complex React and Redux project that using Google Authentication. Also usin
 5. `npm install`
 6. `yarn start`
 7. `open browser with  http://localhost:3000/`
+
+## Translate Project
+
+Simple React app with Context implementation to pass data between components.
+[Clik to see live demo](http://artprofi-react-redux-translate.surge.sh)
+
+## Step to run Translate project
+
+1. `cd translate`
+2. `npm install`
+3. `yarn start`
+4. `open browser with  http://localhost:3000/`
